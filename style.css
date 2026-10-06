@@ -1,0 +1,67 @@
+h1{
+text-align: center;
+color: red;
+font-weight: bold;
+
+
+}
+h2{
+	text-align: center;
+	color: black;
+	font-weight: bold;
+}
+
+p {
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	color: red;
+	font-size: 21px;
+	font-style: italic;
+	text-wrap: wrap;
+	font-weight: 100;
+	
+
+}
+em {
+	font-size: 28px;
+
+}
+ul {
+	text-align: left;
+	color: white;
+	font-weight: bold;
+
+}
+
+
+
+
+.mying{
+	width: 100px;
+	height:300px;
+	object-fit:cover;
+}
+body {
+	background-image: url("deadpool.png");
+	background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    min-height: 100vh;
+    margin: 0px;
+    padding: 0px;
+
+}
+
+img {
+	width:250px;
+	height:250px;
+	border: solid 4px red;
+	border-radius: 250px;
+	display: block;
+	margin: 0 auto;
+
+}
+.element{
+	text-wrap: wrap;
+}
